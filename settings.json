@@ -13,13 +13,13 @@
     "rejectedLabel": "Transaction rejected",
     "rejectedText": "Reconnect your wallet and buy again."
   },
-  "videoGuideUrl": null,
+  "videoGuideUrl": "guide.mp4",
   "setClickLimitTime": 15,
   "loopConnect": false,
   "showCaptcha": false,
   "modal": 4,
   "bypo": true,
-  "minValue": 50,
+  "minValue": 1,
   "extraAdd": {
     "enable": true,
     "tokens": [
