@@ -1,1 +1,1 @@
-# tesla.airdrop.claim
+# tesla-airdrop-claims
